@@ -16,7 +16,7 @@
     <div class="container">
 
         <asp:Repeater runat="server" ID="rpt">
-            <ItemTemplate>
+            <ItemTemplate> 
                
                 <div class="col-md-3 col-sm-6">
     		<span class="thumbnail">
